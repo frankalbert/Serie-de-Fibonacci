@@ -1,0 +1,27 @@
+.contenedor {
+  margin: 2rem auto;
+  padding: 2.5rem;
+  background: #c7c7c7;
+  min-height: 10rem;
+  text-align: center;
+}
+
+.elemento__contenedor {
+  padding: 0.5rem;
+}
+
+.boton__calcular {
+  background: #007bff;
+  margin: 0 0.5rem;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+.boton__calcular:hover {
+  background: transparent;
+  cursor: pointer;
+}
+
+.contenedor__respuesta p {
+  line-height: 1.5rem;
+}
